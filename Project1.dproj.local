@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025/09/17 12:05:10.425,=C:\Users\Deivis\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/17 12:53:22.897,C:\Users\Deivis\OneDrive\Área de Trabalho\Sistema de Tickets de Funcionarios\Unitprincipal.pas=C:\Users\Deivis\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/17 12:53:22.897,C:\Users\Deivis\OneDrive\Área de Trabalho\Sistema de Tickets de Funcionarios\Unitprincipal.dfm=C:\Users\Deivis\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/09/17 12:53:28.625,C:\Users\Deivis\OneDrive\Área de Trabalho\Sistema de Tickets de Funcionarios\Project1.dproj=C:\Users\Deivis\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
